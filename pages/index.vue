@@ -23,7 +23,7 @@ onMounted(() => {
 <style lang="scss" scoped>
 #scene-container {
   position: fixed;
-  width: 100%;
+  width: 80%;
   height: 100%;
   left: 0;
   top: 0;
